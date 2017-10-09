@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA;EACE,gBAAgB;CACjB;;AACD;EACE,aAAa;CACd","file":"main.css","sourcesContent":[".form-delete{\n  display: inline;\n}\ntextarea{\n  resize: none;\n}"]}
